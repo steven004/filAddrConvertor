@@ -99,5 +99,5 @@ func main() {
 		return
 	}
 
-	fmt.Println("Converted Address:", outputAddress)
+	fmt.Println(outputAddress)
 }
